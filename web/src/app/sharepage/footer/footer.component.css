@@ -1,0 +1,22 @@
+.footer{
+
+    overflow: hidden;
+    background-color: rgb(54, 44, 44);
+    padding: 20px 10px;
+}
+
+h1{
+    color: white;
+    font-size: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: nome;
+    padding: 0px 40px;
+    font-size: 18px;
+}
+
+a:hover{
+    color: yellow
+}
