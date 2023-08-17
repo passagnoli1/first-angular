@@ -1,11 +1,14 @@
 .footer{
 
     overflow: hidden;
+    position: sticky;
+    top: 100%;
     background-color: rgb(54, 44, 44);
     padding: 20px 10px;
 }
 
 h1{
+    font-weight: bold;
     color: white;
     font-size: 20px;
 }
@@ -13,10 +16,19 @@ h1{
 a{
     color: white;
     text-decoration: nome;
-    padding: 0px 40px;
+    padding: 0px 5px;
     font-size: 18px;
 }
 
 a:hover{
-    color: yellow
+    color: blue
+}
+
+i{
+    padding: 0px 5px;
+}
+
+p{
+    color: rgb(52, 52, 199);
+    font-size: 18px;
 }
